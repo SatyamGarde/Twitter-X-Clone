@@ -55,15 +55,15 @@ Here are some screenshots of the project:
 
 ### Main Interface
 
-![Main Interface](./assets/images/main-interface.png)
+![Main Interface](https://github.com/SatyamGarde/Twitter-X-Clone/blob/main/Assets/X%20Home.jpg)
 
-### Create Post
+### Tailwind CSS Effects
 
-![Create Post](./assets/images/create-post.png)
+![Create Post](https://github.com/SatyamGarde/Twitter-X-Clone/blob/main/Assets/Post%20Like%20effect.jpg)
 
-### Trending Topics
+### Mobile view
 
-![Trending Topics](./assets/images/trending-topics.png)
+![Trending Topics](https://github.com/SatyamGarde/Twitter-X-Clone/blob/main/Assets/Mobile%20mode.jpeg)
 
 
 ## Acknowledgements
